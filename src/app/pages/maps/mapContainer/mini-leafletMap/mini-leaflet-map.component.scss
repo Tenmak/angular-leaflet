@@ -1,0 +1,26 @@
+@import './../../../../theme/sass/conf/conf.scss';
+
+:host /deep/ {
+  .leaflet-map {
+    width: 100%;
+    height: 250px;
+    border-left: 2px solid #000000;
+    border-top: 2px solid #000000;
+    cursor: pointer;
+  }
+
+  .leaflet-bottom, .leaflet-right {
+    display: none;
+  }
+}
+
+.markers-card {
+  z-index: 960;
+  right: 0px;
+  position: absolute;
+  margin-top: 2px;
+  margin-right: 22px;
+  padding: 5px;
+  font-size: large;
+  font-weight: 900;
+}

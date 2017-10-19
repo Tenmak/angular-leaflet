@@ -1,0 +1,17 @@
+{
+  "general": {
+    "home": "Accueil",
+    "menu": {
+      "dashboard": "Accueil",
+      "maps": "Maps",
+      "leaflet_map": "Map Leaflet"
+    },
+    "language": {
+      "french": "Français",
+      "english": "Anglais"
+    },
+    "created_with": "Créé avec"
+  },
+  "dashboard": {
+  }
+}

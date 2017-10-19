@@ -1,0 +1,14 @@
+<ba-card>
+  <div fxLayout="row" fxLayoutAlign="none">
+    <div fxFlex="100">
+      <leaflet-map></leaflet-map>
+    </div>
+    <div>
+      <div class="miniMapsContainer" baSlimScroll [baSlimScrollOptions]="slimOptions">
+        <div class="reducedMap" *ngFor="let map of mapCount; let index = index;">
+          <mini-leaflet-map [configIndex]="index"></mini-leaflet-map>
+        </div>
+      </div>
+    </div>
+  </div>
+</ba-card>

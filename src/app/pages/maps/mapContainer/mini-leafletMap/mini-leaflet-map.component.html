@@ -1,0 +1,9 @@
+<md-card class="markers-card">
+  <span *ngIf="display !== null">
+      {{display}}
+  </span>
+  <span *ngIf="display === null">
+      ?
+  </span>
+</md-card>
+<div #miniMap class="leaflet-map" (click)="onMiniMapClick($event)"></div>

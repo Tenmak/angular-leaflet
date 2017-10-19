@@ -1,0 +1,34 @@
+<div fxLayout="row" fxLayoutAlign="start stretch">
+
+  <div fxLayout="column" fxLayoutAlign="space-around stretch">
+    <div class="label">
+      Primary Markers :
+    </div>
+    <div class="label">
+      Secondary Markers :
+    </div>
+  </div>
+
+  <div fxLayout="column" fxLayoutAlign="center center">
+    <div>
+      <md-radio-group class="marker-radio-group" (change)="onMarkerChange($event.value, 'primary')">
+        <div class="marker-radio-container" *ngFor="let markerConfig of leafletConfigurationService.markersOptions; let index = index;">
+          <i [ngClass]="getMarkerStyle(index)"></i>
+          <md-radio-button class="marker-radio-button" [value]="markerConfig" [checked]="markerConfig === leafletConfigurationService.markersData.primary">
+          </md-radio-button>
+        </div>
+      </md-radio-group>
+    </div>
+
+    <div>
+      <md-radio-group class="marker-radio-group" (change)="onMarkerChange($event.value, 'secondary')">
+        <div class="marker-radio-container" *ngFor="let markerConfig of leafletConfigurationService.markersOptions; let index = index;">
+          <i [ngClass]="getMarkerStyle(index)"></i>
+          <md-radio-button class="marker-radio-button" [value]="markerConfig" [checked]="markerConfig === leafletConfigurationService.markersData.secondary">
+          </md-radio-button>
+        </div>
+      </md-radio-group>
+    </div>
+  </div>
+
+</div>

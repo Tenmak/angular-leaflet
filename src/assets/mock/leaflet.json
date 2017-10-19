@@ -1,0 +1,146 @@
+[
+  {
+    "isPrimary": true,
+    "center": [
+      43.2965,
+      5.3698
+    ],
+    "popup": "This is Marseille city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      45.1666,
+      5.7166
+    ],
+    "popup": "This is Grenoble city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": true,
+    "center": [
+      48.8647,
+      2.3490
+    ],
+    "popup": "This is Paris city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      49.2534,
+      4.033
+    ],
+    "popup": "This is Reims city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      48.4,
+      -4.4833
+    ],
+    "popup": "This is Brest city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      44.84044,
+      -0.5805
+    ],
+    "popup": "This is Bordeaux city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": true,
+    "center": [
+      16.2353,
+      -61.5465
+    ],
+    "popup": "This is Pointe-à-Pitre city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      16.3315,
+      -61.3566
+    ],
+    "popup": "This is Moule city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      15.9533,
+      -61.3200
+    ],
+    "popup": "This is Saint-Louis city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": true,
+    "center": [
+      14.6089,
+      -61.073
+    ],
+    "popup": "This is Fort-de-France city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      14.7021,
+      -61.1732
+    ],
+    "popup": "This is Le Carbet city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      14.7798,
+      -61.0027
+    ],
+    "popup": "This is Sainte-Marie city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": true,
+    "center": [
+      -20.8867,
+      55.4667
+    ],
+    "popup": "This is Saint-Denis city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      -21.0140,
+      55.2607
+    ],
+    "popup": "This is Saint-Paul city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": true,
+    "center": [
+      -12.8027,
+      45.2754
+    ],
+    "popup": "This is Pamandzi city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      -12.7805,
+      45.2228
+    ],
+    "popup": "This is Mamoudzou city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      -12.9101,
+      45.0759
+    ],
+    "popup": "This is Bouéni city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  },
+  {
+    "isPrimary": false,
+    "center": [
+      -12.9712,
+      45.1588
+    ],
+    "popup": "This is Dapani city. <a href=\"http: //www.meteofrance.com/accueil\"> Visit Meteo-France</a>"
+  }
+]

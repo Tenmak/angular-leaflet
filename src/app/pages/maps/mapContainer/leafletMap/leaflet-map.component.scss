@@ -1,0 +1,17 @@
+@import './../../../../theme/sass/conf/conf.scss';
+
+:host /deep/ .leaflet-map {
+    width: 100%;
+    height: calc(100vh - 283px);
+}
+
+:host /deep/ .popup-label {
+    .leaflet-popup-content {
+        // 36 px for 2 digit indexes
+        width: 36px !important;
+        margin: 5px 9px;
+        overflow: hidden;
+        border-top: none;
+        border-bottom: none;
+    }
+}
