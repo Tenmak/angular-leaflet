@@ -58,6 +58,7 @@
     "leaflet": "^1.2.0",
     "leaflet-draw": "^0.4.12",
     "leaflet-zoombox": "^0.3.5",
+    "leaflet.awesome-markers": "^2.0.4",
     "leaflet.markercluster": "^1.1.0",
     "lodash": "4.17.4",
     "hammerjs": "2.0.8",
@@ -73,7 +74,7 @@
     "zone.js": "0.8.16"
   },
   "devDependencies": {
-    "@angular/cli": "^1.4.4",
+    "@angular/cli": "^1.4.7",
     "@angular/compiler-cli": "^4.4.4",
     "@types/fullcalendar": "2.7.40",
     "@types/geojson": "1.0.3",
