@@ -11,7 +11,6 @@ export class MapContainerComponent {
 
   slimOptions = {
     wheelStep: 10,
-    // height: '250px'
     alwaysVisible: true,
   }
 }
