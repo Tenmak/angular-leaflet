@@ -17,6 +17,11 @@
     position: inherit !important;
   } 
 
+  .slimScrollBar {
+    display: block !important;
+    height: 62.5px !important;
+  }
+
   .slimScrollBar, .slimScrollRail {
     z-index: 970 !important;
     width: 13px !important;
