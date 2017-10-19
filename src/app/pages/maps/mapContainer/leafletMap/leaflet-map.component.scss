@@ -2,7 +2,8 @@
 
 :host /deep/ .leaflet-map {
     width: 100%;
-    height: calc(100vh - 283px);
+    // height: calc(100vh - 283px);
+    height: calc(100vh - 207px);
 }
 
 :host /deep/ .popup-label {
